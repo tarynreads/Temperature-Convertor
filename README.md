@@ -1,7 +1,7 @@
 # Temperature Conversion
 
 ## Description
-Super simple Python code that converts Celcius to Fahrenheit and Fahrenheit to Celcius. 
+Super simple Python code that converts Celsius to Fahrenheit and Fahrenheit to Celsius. 
 
 ## How to Run
 You can view and run this project directly on OnlineGDB here:  
